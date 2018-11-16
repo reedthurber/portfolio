@@ -26,3 +26,6 @@ Designed and manufactured the electronics mounts on the indide of the sub
 ## 2018 Competition
 As vice president of the team I stood in as the team lead for our 2018 competition.
 organized all logistics of the competition (travel, communication, planning, schedule), made all of the calls and such 
+- information about the competition (where who etc.)
+- how we did
+- some photos and stuff from it
